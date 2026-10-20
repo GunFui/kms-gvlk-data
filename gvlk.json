@@ -1,0 +1,1350 @@
+{
+  "meta": {
+    "name": "KMS GVLK Data",
+    "description": "Windows / Office 公开 GVLK（客户端密钥）数据表",
+    "source": "Microsoft 官方文档 + py-kms / vlmcsd 公开数据",
+    "license": "数据本身为微软公开信息，代码部分 MIT",
+    "homepage": "https://kms.nz",
+    "updated": "2026-10-20"
+  },
+  "products": [
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Pro",
+      "gvlk": "W269N-WFGWX-YVC9B-4J6C9-T83GX"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Pro N",
+      "gvlk": "MH37W-N47XK-V7XM9-C7227-GCQG9"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Pro for Workstations",
+      "gvlk": "NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Pro for Workstations N",
+      "gvlk": "9FNHH-K3HBT-3W4TD-6383H-6XYWF"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Pro Education",
+      "gvlk": "6TP4R-GNPTD-KYYHQ-7B7DP-J447Y"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Pro Education N",
+      "gvlk": "YVWGF-BXNMC-HTQYQ-CPQ99-66QFC"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Education",
+      "gvlk": "NW6C2-QMPVW-D7KKK-3GKT6-VCFB2"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Education N",
+      "gvlk": "2WH4N-8QGBV-H22JP-CT43Q-MDWWJ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Enterprise",
+      "gvlk": "NPPR9-FWDCX-D2C8J-H872K-2YT43"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Enterprise N",
+      "gvlk": "DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Enterprise G",
+      "gvlk": "YYVX9-NTFWV-6MDM3-9PT4T-4M68B"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Enterprise G N",
+      "gvlk": "44RPN-FTY23-9VTTB-MP9BX-T84FV"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Enterprise LTSC 2024",
+      "gvlk": "M7XTQ-FN8P6-TTKYV-9D4CC-J462D"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 Enterprise N LTSC 2024",
+      "gvlk": "92NFX-8DJQP-P6BBQ-THF9C-7CG2H"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 11",
+      "edition": "Windows 11 IoT Enterprise LTSC 2024",
+      "gvlk": "KBN8V-HFGQ4-MGXVD-347P6-PDQGT"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 LTSC 2021",
+      "edition": "Windows 10 Enterprise LTSC 2021",
+      "gvlk": "M7XTQ-FN8P6-TTKYV-9D4CC-J462D"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 LTSC 2021",
+      "edition": "Windows 10 Enterprise N LTSC 2021",
+      "gvlk": "92NFX-8DJQP-P6BBQ-THF9C-7CG2H"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 LTSC 2021",
+      "edition": "Windows 10 IoT Enterprise LTSC 2021",
+      "gvlk": "KBN8V-HFGQ4-MGXVD-347P6-PDQGT"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2022",
+      "edition": "Windows Server 2022 Standard",
+      "gvlk": "VDYBN-27WPP-V4HQT-9VMD4-VMK7H"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2022",
+      "edition": "Windows Server 2022 Datacenter",
+      "gvlk": "WX4NM-KYWYW-QJJR4-XV3QB-6VM33"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2022",
+      "edition": "Windows Server 2022 Datacenter: Azure Edition",
+      "gvlk": "NTBV8-9K7Q8-V27C6-M2BTV-KHMXV"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2025",
+      "edition": "Windows Server 2025 Standard",
+      "gvlk": "TVRH6-WHNXV-R9WG3-9XRFY-MY832"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2025",
+      "edition": "Windows Server 2025 Datacenter",
+      "gvlk": "D764K-2NDRG-47T6Q-P8T8W-YP6DF"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2025",
+      "edition": "Windows Server 2025 Datacenter: Azure Edition",
+      "gvlk": "XGN3F-F394H-FD2MY-PP6FD-8MCRC"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Office LTSC Professional Plus 2021",
+      "gvlk": "FXYTK-NJJ8C-GB6DW-3DYQT-6F7TH"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Office LTSC Standard 2021",
+      "gvlk": "KDX7X-BNVR8-TXXGX-4Q7Y8-78VT3"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Project Professional 2021",
+      "gvlk": "FTNWT-C6WBT-8HMGF-K9PRX-QV9H8"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Project Standard 2021",
+      "gvlk": "J2JDC-NJCYY-9RGQ4-YXWMH-T3D4T"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Visio LTSC Professional 2021",
+      "gvlk": "KNH8D-FGHT4-T8RK3-CTDYJ-K2HT4"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Visio LTSC Standard 2021",
+      "gvlk": "MJVNY-BYWPY-CWV6J-2RKRT-4M8QG"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Access LTSC 2021",
+      "gvlk": "WM8YG-YNGDD-4JHDC-PG3F4-FC4T4"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Excel LTSC 2021",
+      "gvlk": "NWG3X-87C9K-TC7YY-BC2G7-G6RVC"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Outlook LTSC 2021",
+      "gvlk": "C9FM6-3N72F-HFJXB-TM3V9-T86R9"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "PowerPoint LTSC 2021",
+      "gvlk": "TY7XF-NFRBR-KJ44C-G83KF-GX27K"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Publisher LTSC 2021",
+      "gvlk": "2MW9D-N4BXM-9VBPG-Q7W6M-KFBGQ"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Skype for Business LTSC 2021",
+      "gvlk": "HWCXN-K3WBT-WJBKY-R8BD9-XK29P"
+    },
+    {
+      "category": "office",
+      "product": "Office 2021",
+      "edition": "Word LTSC 2021",
+      "gvlk": "TN8H9-M34D3-Y64V9-TR72V-X79KV"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Office LTSC Professional Plus 2024",
+      "gvlk": "XJ2XN-FW8RK-P4HMP-DKDBV-GCVGB"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Office LTSC Standard 2024",
+      "gvlk": "V28N4-JG22K-W66P8-VTMGK-H6HGR"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Project Professional 2024",
+      "gvlk": "FQQ23-N4YCY-73HQ3-FM9WC-76HF4"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Project Standard 2024",
+      "gvlk": "PD3TT-NTHQQ-VC7CY-MFXK3-G87F8"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Visio LTSC Professional 2024",
+      "gvlk": "B7TN8-FJ8V3-7QYCP-HQPMV-YY89G"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Visio LTSC Standard 2024",
+      "gvlk": "JMMVY-XFNQC-KK4HK-9H7R3-WQQTV"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Access LTSC 2024",
+      "gvlk": "82FTR-NCHR7-W3944-MGRHM-JMCWD"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Excel LTSC 2024",
+      "gvlk": "F4DYN-89BP2-WQTWJ-GR8YC-CKGJG"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Outlook LTSC 2024",
+      "gvlk": "D2F8D-N3Q3B-J28PV-X27HD-RJWB9"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "PowerPoint LTSC 2024",
+      "gvlk": "CW94N-K6GJH-9CTXY-MG2VC-FYCWP"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Skype for Business LTSC 2024",
+      "gvlk": "4NKHF-9HBQF-Q3B6C-7YV34-F64P3"
+    },
+    {
+      "category": "office",
+      "product": "Office 2024",
+      "edition": "Word LTSC 2024",
+      "gvlk": "MQ84N-7VYDM-FXV7C-6K7CC-VFW9J"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2019",
+      "edition": "Windows Server 2019 ARM64",
+      "gvlk": "GRFBW-QNDC4-6QBHG-CCK3B-2PR88"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2019",
+      "edition": "Windows Server 2019 Azure Core",
+      "gvlk": "FDNH6-VW9RW-BXPJ7-4XTYG-239TB"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2019",
+      "edition": "Windows Server 2019 Datacenter",
+      "gvlk": "WMDGN-G9PQG-XVVXX-R3X43-63DFG"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2019",
+      "edition": "Windows Server 2019 Essentials",
+      "gvlk": "WVDHN-86M7X-466P6-VHXV7-YY726"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2019",
+      "edition": "Windows Server 2019 Standard",
+      "gvlk": "N69G4-B89J2-4G8F4-WWYCC-J464C"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2019",
+      "edition": "Windows Server 2019 Datacenter (Semi-Annual Channel v.1809)",
+      "gvlk": "6NMRW-2C8FM-D24W7-TQWMY-CWH2D"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2019",
+      "edition": "Windows Server 2019 Standard (Semi-Annual Channel v.1809)",
+      "gvlk": "N2KJX-J94YW-TQVFB-DG9YT-724CC"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2019 (Volume)",
+      "edition": "Windows 10 Enterprise LTSC 2019",
+      "gvlk": "M7XTQ-FN8P6-TTKYV-9D4CC-J462D"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2019 (Volume)",
+      "edition": "Windows 10 Enterprise LTSC 2019 N",
+      "gvlk": "92NFX-8DJQP-P6BBQ-THF9C-7CG2H"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 China Government",
+      "edition": "Windows 10 Enterprise G",
+      "gvlk": "YYVX9-NTFWV-6MDM3-9PT4T-4M68B"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 China Government",
+      "edition": "Windows 10 Enterprise G N",
+      "gvlk": "44RPN-FTY23-9VTTB-MP9BX-T84FV"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2016 (Volume)",
+      "edition": "Windows 10 Enterprise 2016 LTSB",
+      "gvlk": "DCPHK-NFMTC-H88MJ-PFHPY-QJ4BJ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2016 (Volume)",
+      "edition": "Windows 10 Enterprise 2016 LTSB N",
+      "gvlk": "QFFDN-GRT3P-VKWWX-X7T3R-8B639"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 (Retail)",
+      "edition": "Windows 10 Home / Core",
+      "gvlk": "TX9XD-98N7V-6WMQ6-BX7FG-H8Q99"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 (Retail)",
+      "edition": "Windows 10 Home / Core Country Specific",
+      "gvlk": "PVMJN-6DFY6-9CCP6-7BKTT-D3WVR"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 (Retail)",
+      "edition": "Windows 10 Home / Core N",
+      "gvlk": "3KHY7-WNT83-DGQKR-F7HPR-844BM"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 (Retail)",
+      "edition": "Windows 10 Home / Core Single Language",
+      "gvlk": "7HNRX-D7KGG-3K4RQ-4WPJ4-YTDFH"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Education",
+      "gvlk": "NW6C2-QMPVW-D7KKK-3GKT6-VCFB2"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Education N",
+      "gvlk": "2WH4N-8QGBV-H22JP-CT43Q-MDWWJ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Enterprise",
+      "gvlk": "NPPR9-FWDCX-D2C8J-H872K-2YT43"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Enterprise 2015 LTSB",
+      "gvlk": "WNMTR-4C88C-JK8YV-HQ7T2-76DF9"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Enterprise 2015 LTSB N",
+      "gvlk": "2F77B-TNFGY-69QQF-B8YKP-D69TJ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Enterprise N",
+      "gvlk": "DPH2V-TTNVB-4X9Q3-TJR4H-KHJW4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Professional Workstation",
+      "gvlk": "NRG8B-VKK3Q-CXVCJ-9G2XF-6Q84J"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Professional Workstation N",
+      "gvlk": "9FNHH-K3HBT-3W4TD-6383H-6XYWF"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Professional",
+      "gvlk": "W269N-WFGWX-YVC9B-4J6C9-T83GX"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Professional Education",
+      "gvlk": "6TP4R-GNPTD-KYYHQ-7B7DP-J447Y"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Professional Education N",
+      "gvlk": "YVWGF-BXNMC-HTQYQ-CPQ99-66QFC"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Professional N",
+      "gvlk": "MH37W-N47XK-V7XM9-C7227-GCQG9"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Enterprise for Virtual Desktops",
+      "gvlk": "CPWHC-NT2C7-VYW78-DHDB2-PG3GK"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 Remote Server",
+      "gvlk": "7NBT4-WGBQX-MP4H7-QXFF8-YP3KX"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 10 2015 (Volume)",
+      "edition": "Windows 10 S (Lean)",
+      "gvlk": "NBTWJ-3DR69-3C4V8-C26MC-GQ9M6"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 Enterprise",
+      "gvlk": "33PXH-7Y6KF-2VJC9-XBBR8-HVTHH"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 Enterprise E",
+      "gvlk": "C29WB-22CC8-VJ326-GHFJW-H9DH4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 Enterprise N",
+      "gvlk": "YDRBP-3D83W-TY26F-D46B2-XCKRJ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 Professional",
+      "gvlk": "FJ82H-XT6CR-J8D7P-XQJJ2-GPDD4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 Professional E",
+      "gvlk": "W82YF-2Q76Y-63HXB-FGJG9-GF7QX"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 Professional N",
+      "gvlk": "MRPKT-YTG23-K7D7T-X2JMM-QY7MG"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 Embedded POSReady",
+      "gvlk": "YBYF6-BHCR3-JPKRB-CDW7B-F9BK4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 Embedded Standard",
+      "gvlk": "XGY72-BRBBT-FF8MH-2GG8H-W7KCW"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 7",
+      "edition": "Windows 7 ThinPC",
+      "gvlk": "73KQT-CD9G6-K7TQG-66MRP-CQ22C"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Retail)",
+      "edition": "Windows 8 Core / Server 2012",
+      "gvlk": "BN3D2-R7TKB-3YPBD-8DRP2-27GG4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Retail)",
+      "edition": "Windows 8 Core / Server 2012 Country Specific",
+      "gvlk": "4K36P-JN4VD-GDC6V-KDT89-DYFKP"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Retail)",
+      "edition": "Windows 8 Core / Server 2012 N",
+      "gvlk": "8N2M2-HWPGY-7PGT9-HGDD8-GVGGY"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Retail)",
+      "edition": "Windows 8 Core / Server 2012 Single Language",
+      "gvlk": "2WN2H-YGCQR-KFX6K-CD6TF-84YXQ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Retail)",
+      "edition": "Windows 8 Professional WMC",
+      "gvlk": "GNBB8-YVD74-QJHX6-27H4K-8QHDG"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Volume)",
+      "edition": "Windows 8 Embedded Industry Professional",
+      "gvlk": "RYXVT-BNQG7-VD29F-DBMRY-HT73M"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Volume)",
+      "edition": "Windows 8 Embedded Industry Enterprise",
+      "gvlk": "NKB3R-R2F8T-3XCDP-7Q2KW-XWYQ2"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Volume)",
+      "edition": "Windows 8 Enterprise",
+      "gvlk": "32JNW-9KQ84-P47T8-D8GGY-CWCK7"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Volume)",
+      "edition": "Windows 8 Enterprise N",
+      "gvlk": "JMNMF-RHW7P-DMY6X-RF3DR-X2BQT"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Volume)",
+      "edition": "Windows 8 Professional",
+      "gvlk": "NG4HW-VH26C-733KW-K6F98-J8CK4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8 (Volume)",
+      "edition": "Windows 8 Professional N",
+      "gvlk": "XCVCF-2NXM9-723PB-MHCB7-2RYQQ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Retail)",
+      "edition": "Windows 8.1 Core",
+      "gvlk": "M9Q9P-WNJJT-6PXPY-DWX8H-6XWKK"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Retail)",
+      "edition": "Windows 8.1 Core ARM64",
+      "gvlk": "XYTND-K6QKT-K2MRH-66RTM-43JKP"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Retail)",
+      "edition": "Windows 8.1 Core Country Specific",
+      "gvlk": "NCTT7-2RGK8-WMHRF-RY7YQ-JTXG3"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Retail)",
+      "edition": "Windows 8.1 Core N",
+      "gvlk": "7B9N3-D94CG-YTVHR-QBPX3-RJP64"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Retail)",
+      "edition": "Windows 8.1 Core Single Language",
+      "gvlk": "BB6NG-PQ82V-VRDPW-8XVD2-V8P66"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Retail)",
+      "edition": "Windows 8.1 Professional Student",
+      "gvlk": "MX3RK-9HNGX-K3QKC-6PJ3F-W8D7B"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Retail)",
+      "edition": "Windows 8.1 Professional Student N",
+      "gvlk": "TNFGH-2R6PB-8XM3K-QYHX2-J4296"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Retail)",
+      "edition": "Windows 8.1 Professional WMC",
+      "gvlk": "789NJ-TQK6T-6XTH8-J39CJ-J8D3P"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Core Connected",
+      "gvlk": "3PY8R-QHNP9-W7XQD-G6DPH-3J2C9"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Core Connected Country Specific",
+      "gvlk": "R962J-37N87-9VVK2-WJ74P-XTMHR"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Core Connected N",
+      "gvlk": "Q6HTR-N24GM-PMJFP-69CD8-2GXKR"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Core Connected Single Language",
+      "gvlk": "KF37N-VDV38-GRRTV-XH8X6-6F3BB"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Enterprise",
+      "gvlk": "MHF9N-XY6XB-WVXMC-BTDCT-MKKG7"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Enterprise N",
+      "gvlk": "TT4HM-HN7YT-62K67-RGRQJ-JFFXW"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Professional",
+      "gvlk": "GCRJD-8NW9H-F2CDX-CCM8D-9D6T9"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Professional N",
+      "gvlk": "HMCNV-VVBFX-7HMBH-CTY9B-B4FXY"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Embedded Industry Professional",
+      "gvlk": "NMMPB-38DD4-R2823-62W8D-VXKJB"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Embedded Industry Automotive",
+      "gvlk": "VHXM3-NR6FT-RY6RT-CK882-KW2CJ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows 8.1 (Volume)",
+      "edition": "Windows 8.1 Embedded Industry Enterprise",
+      "gvlk": "FNFKF-PWTVT-9RC8H-32HB2-JB34X"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 A (Web and HPC)",
+      "edition": "Windows Server 2008 Web",
+      "gvlk": "WYR28-R7TFJ-3X2YQ-YCY4H-M249D"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 A (Web and HPC)",
+      "edition": "Windows Server 2008 HPC Edition",
+      "gvlk": "RCTX3-KWVHP-BR6TB-RB6DM-6X7HP"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 B (Standard and Enterprise)",
+      "edition": "Windows Server 2008 Standard",
+      "gvlk": "TM24T-X9RMF-VWXK6-X8JC9-BFGM2"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 B (Standard and Enterprise)",
+      "edition": "Windows Server 2008 Standard without Hyper-V",
+      "gvlk": "W7VD6-7JFBR-RX26B-YKQ3Y-6FFFJ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 B (Standard and Enterprise)",
+      "edition": "Windows Server 2008 Enterprise",
+      "gvlk": "YQGMW-MPWTJ-34KDK-48M3W-X4Q6V"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 B (Standard and Enterprise)",
+      "edition": "Windows Server 2008 Enterprise without Hyper-V",
+      "gvlk": "39BXF-X8Q23-P2WWT-38T2F-G3FPG"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 C (Datacenter and Itanium)",
+      "edition": "Windows Server 2008 Datacenter",
+      "gvlk": "7M67G-PC374-GR742-YH8V4-TCBY3"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 C (Datacenter and Itanium)",
+      "edition": "Windows Server 2008 Datacenter without Hyper-V",
+      "gvlk": "22XQ2-VRXRG-P8D42-K34TD-G3QQC"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 C (Datacenter and Itanium)",
+      "edition": "Windows Server 2008 for Itanium Systems",
+      "gvlk": "4DWFP-JF3DJ-B7DTH-78FJB-PDRHK"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 R2 A (Web and HPC)",
+      "edition": "Windows MultiPoint Server 2010",
+      "gvlk": "736RG-XDKJK-V34PF-BHK87-J6X3K"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 R2 A (Web and HPC)",
+      "edition": "Windows Server 2008 R2 Web",
+      "gvlk": "6TPJF-RBVHG-WBW2R-86QPH-6RTM4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 R2 A (Web and HPC)",
+      "edition": "Windows Server 2008 R2 HPC Edition",
+      "gvlk": "TT8MH-CG224-D3D7Q-498W2-9QCTX"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 R2 B (Standard and Enterprise)",
+      "edition": "Windows Server 2008 R2 Standard",
+      "gvlk": "YC6KT-GKW9T-YTKYR-T4X34-R7VHC"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 R2 B (Standard and Enterprise)",
+      "edition": "Windows Server 2008 R2 Enterprise",
+      "gvlk": "489J6-VHDMP-X63PK-3K798-CPX3Y"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 R2 C (Datacenter and Itanium)",
+      "edition": "Windows Server 2008 R2 Datacenter",
+      "gvlk": "74YFP-3QFB3-KQT8W-PMXWJ-7M648"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2008 R2 C (Datacenter and Itanium)",
+      "edition": "Windows Server 2008 R2 for Itanium Systems",
+      "gvlk": "GT63C-RJFQ3-4GMB6-BRFB9-CB83V"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2012",
+      "edition": "Windows Server 2012 Datacenter",
+      "gvlk": "48HP8-DN98B-MYWDG-T2DCC-8W83P"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2012",
+      "edition": "Windows Server 2012 MultiPoint Premium",
+      "gvlk": "XNH6W-2V9GX-RGJ4K-Y8X6F-QGJ2G"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2012",
+      "edition": "Windows Server 2012 MultiPoint Standard",
+      "gvlk": "HM7DN-YVMH3-46JC3-XYTG7-CYQJJ"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2012",
+      "edition": "Windows Server 2012 Standard",
+      "gvlk": "XC9B7-NBPP2-83J2H-RHMBY-92BT4"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2012 R2",
+      "edition": "Windows Server 2012 R2 Cloud Storage",
+      "gvlk": "3NPTF-33KPT-GGBPR-YX76B-39KDD"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2012 R2",
+      "edition": "Windows Server 2012 R2 Datacenter",
+      "gvlk": "W3GGN-FT8W3-Y4M27-J84CP-Q3VJ9"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2012 R2",
+      "edition": "Windows Server 2012 R2 Essentials",
+      "gvlk": "KNC87-3J2TX-XB4WP-VCPJV-M4FWM"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2012 R2",
+      "edition": "Windows Server 2012 R2 Standard",
+      "gvlk": "D2N9P-3P6X9-2R39C-7RTCD-MDVJX"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2016",
+      "edition": "Windows Server 2016 Azure Core",
+      "gvlk": "VP34G-4NPPG-79JTQ-864T4-R3MQX"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2016",
+      "edition": "Windows Server 2016 Cloud Storage",
+      "gvlk": "QN4C6-GBJD2-FB422-GHWJK-GJG2R"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2016",
+      "edition": "Windows Server 2016 Datacenter",
+      "gvlk": "CB7KF-BWN84-R7R2Y-793K2-8XDDG"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2016",
+      "edition": "Windows Server 2016 Essentials",
+      "gvlk": "JCKRF-N37P4-C2D82-9YXRT-4M63B"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2016",
+      "edition": "Windows Server 2016 Standard",
+      "gvlk": "WC2BQ-8NRM3-FDDYY-2BFGV-KHKQY"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2016",
+      "edition": "Windows Server 2016 ARM64",
+      "gvlk": "K9FYF-G6NCK-73M32-XMVPY-F9DRR"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2016",
+      "edition": "Windows Server 2016 Datacenter (Semi-Annual Channel v.1803)",
+      "gvlk": "2HXDN-KRXHB-GPYC7-YCKFJ-7FVDG"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Server 2016",
+      "edition": "Windows Server 2016 Standard (Semi-Annual Channel v.1803)",
+      "gvlk": "PTXN8-JFHJM-4WC78-MPCBR-9W4KR"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Vista",
+      "edition": "Windows Vista Business",
+      "gvlk": "YFKBB-PQJJV-G996G-VWGXY-2V3X8"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Vista",
+      "edition": "Windows Vista Business N",
+      "gvlk": "HMBQG-8H2RH-C77VX-27R82-VMQBT"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Vista",
+      "edition": "Windows Vista Enterprise",
+      "gvlk": "VKK3X-68KWM-X2YGT-QR4M6-4BWMV"
+    },
+    {
+      "category": "windows",
+      "product": "Windows Vista",
+      "edition": "Windows Vista Enterprise N",
+      "gvlk": "VTC42-BM838-43QHV-84HX6-XJXKV"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Access 2010",
+      "gvlk": "V7Y44-9T38C-R2VJK-666HK-T7DDX"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Excel 2010",
+      "gvlk": "H62QG-HXVKF-PP4HP-66KMR-CW9BM"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Groove (SharePoint Workspace) 2010",
+      "gvlk": "QYYW6-QP4CB-MBV6G-HYMCJ-4T3J4"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office InfoPath 2010",
+      "gvlk": "K96W8-67RPQ-62T9Y-J8FQJ-BT37T"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Mondo 1 2010",
+      "gvlk": "YBJTT-JG6MD-V9Q7P-DBKXJ-38W9R"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Mondo 2 2010",
+      "gvlk": "7TC2V-WXF6P-TD7RT-BQRXR-B8K32"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office OneNote 2010",
+      "gvlk": "Q4Y4M-RHWJM-PY37F-MTKWH-D3XHX"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office OutLook 2010",
+      "gvlk": "7YDC2-CWM8M-RRTJC-8MDVC-X3DWQ"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office PowerPoint 2010",
+      "gvlk": "RC8FX-88JRY-3PF7C-X8P67-P4VTT"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Professional Plus 2010",
+      "gvlk": "VYBBJ-TRJPB-QFQRF-QFT4D-H3GVB"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Project Professional 2010",
+      "gvlk": "YGX6F-PGV49-PGW3J-9BTGG-VHKC6"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Project Standard 2010",
+      "gvlk": "4HP3K-88W3F-W2K3D-6677X-F9PGB"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Publisher 2010",
+      "gvlk": "BFK7F-9MYHM-V68C7-DRQ66-83YTP"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Small Business Basics 2010",
+      "gvlk": "D6QFG-VBYP2-XQHM7-J97RH-VVRCK"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Standard 2010",
+      "gvlk": "V7QKV-4XVVR-XYV4D-F7DFM-8R6BM"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Visio Premium 2010",
+      "gvlk": "D9DWC-HPYVV-JGF4P-BTWQB-WX8BJ"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Visio Professional 2010",
+      "gvlk": "7MCW8-VRQVK-G677T-PDJCM-Q8TCP"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Visio Standard 2010",
+      "gvlk": "767HD-QGMWX-8QTDB-9G3R2-KHFGJ"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Word 2010",
+      "gvlk": "HVHB3-C6FV7-KQX9W-YQG79-CRY7T"
+    },
+    {
+      "category": "office",
+      "product": "Office 2010",
+      "edition": "Office Starter 2010 Retail",
+      "gvlk": "VXHHB-W7HBD-7M342-RJ7P8-CHBD6"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Access 2013",
+      "gvlk": "NG2JY-H4JBT-HQXYP-78QH9-4JM2D"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Excel 2013",
+      "gvlk": "VGPNG-Y7HQW-9RHP7-TKPV3-BG7GB"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office InfoPath 2013",
+      "gvlk": "DKT8B-N7VXH-D963P-Q4PHY-F8894"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Lync 2013",
+      "gvlk": "2MG3G-3BNTT-3MFW9-KDQW3-TCK7R"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Mondo 2013",
+      "gvlk": "42QTK-RN8M7-J3C4G-BBGYM-88CYV"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office OneNote 2013",
+      "gvlk": "TGN6P-8MMBC-37P2F-XHXXK-P34VW"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office OutLook 2013",
+      "gvlk": "QPN8Q-BJBTJ-334K3-93TGY-2PMBT"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office PowerPoint 2013",
+      "gvlk": "4NT99-8RJFH-Q2VDH-KYG2C-4RD4F"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Professional Plus 2013",
+      "gvlk": "YC7DK-G2NP3-2QQC3-J6H88-GVGXT"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Project Professional 2013",
+      "gvlk": "FN8TT-7WMH6-2D4X9-M337T-2342K"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Project Standard 2013",
+      "gvlk": "6NTH3-CW976-3G3Y2-JK3TX-8QHTT"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Publisher 2013",
+      "gvlk": "PN2WF-29XG2-T9HJ7-JQPJR-FCXK4"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Standard 2013",
+      "gvlk": "KBKQT-2NMXY-JJWGP-M62JB-92CD4"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Visio Professional 2013",
+      "gvlk": "C2FG9-N6J68-H8BTJ-BW3QX-RM3B3"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Visio Standard 2013",
+      "gvlk": "J484Y-4NKBF-W2HMG-DBMJC-PGWR7"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office Word 2013",
+      "gvlk": "6Q7VD-NX8JD-WJ2VH-88V73-4GBJ7"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office SharePoint Workspace (Groove) 2013",
+      "gvlk": "H7R7V-WPNXQ-WCYYC-76BGV-VT7GH"
+    },
+    {
+      "category": "office",
+      "product": "Office 2013",
+      "edition": "Office SharePoint Designer (Frontpage) 2013 Retail",
+      "gvlk": "GYJRG-NMYMF-VGBM4-T3QD4-842DW"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Access 2016",
+      "gvlk": "GNH9Y-D2J4T-FJHGG-QRVH7-QPFDW"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Excel 2016",
+      "gvlk": "9C2PK-NWTVB-JMPW8-BFT28-7FTBF"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Mondo 2016",
+      "gvlk": "HFTND-W9MK4-8B7MJ-B6C4G-XQBR2"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Mondo Retail 2016",
+      "gvlk": "DMTCJ-KNRKX-26982-JYCKT-P7KB6"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office OneNote 2016",
+      "gvlk": "DR92N-9HTF2-97XKM-XW2WJ-XW3J6"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Outlook 2016",
+      "gvlk": "R69KK-NTPKF-7M3Q4-QYBHW-6MT9B"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Powerpoint 2016",
+      "gvlk": "J7MQP-HNJ4Y-WJ7YM-PFYGF-BY6C6"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Professional Plus 2016",
+      "gvlk": "XQNVK-8JYDB-WJ9W3-YJ8YR-WFG99"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Project Professional 2016",
+      "gvlk": "YG9NW-3K39V-2T3HJ-93F3Q-G83KT"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Project Standard 2016",
+      "gvlk": "GNFHQ-F6YQM-KQDGJ-327XX-KQBVC"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Publisher 2016",
+      "gvlk": "F47MM-N3XJP-TQXJ9-BP99D-8K837"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Skype for Business 2016",
+      "gvlk": "869NQ-FJ69K-466HW-QYCP2-DDBV6"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Standard 2016",
+      "gvlk": "JNRGM-WHDWX-FJJG3-K47QV-DRTFM"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Visio Professional 2016",
+      "gvlk": "PD3PC-RHNGV-FXJ29-8JK7D-RJRJK"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Visio Standard 2016",
+      "gvlk": "7WHWN-4T7MP-G96JF-G33KR-W8GF4"
+    },
+    {
+      "category": "office",
+      "product": "Office 2016",
+      "edition": "Office Word 2016",
+      "gvlk": "WXY84-JN2Q9-RBCCQ-3Q3J3-3PFJ6"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Access 2019",
+      "gvlk": "9N9PT-27V4Y-VJ2PD-YXFMF-YTFQT"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Excel 2019",
+      "gvlk": "TMJWT-YYNMB-3BKTF-644FC-RVXBD"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Outlook 2019",
+      "gvlk": "7HD7K-N4PVK-BHBCQ-YWQRW-XW4VK"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Powerpoint 2019",
+      "gvlk": "RRNCX-C64HY-W2MM7-MCH9G-TJHMQ"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Professional Plus 2019",
+      "gvlk": "NMMKJ-6RK4F-KMJVX-8D9MJ-6MWKP"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Project Professional 2019",
+      "gvlk": "B4NPR-3FKK7-T2MBV-FRQ4W-PKD2B"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Project Standard 2019",
+      "gvlk": "C4F7P-NCP8C-6CQPT-MQHV9-JXD2M"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Publisher 2019",
+      "gvlk": "G2KWX-3NW6P-PY93R-JXK2T-C9Y9V"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Skype for Business 2019",
+      "gvlk": "NCJ33-JHBBY-HTK98-MYCV8-HMKHJ"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Standard 2019",
+      "gvlk": "6NWWJ-YQWMR-QKGCB-6TMB3-9D9HK"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Visio Professional 2019",
+      "gvlk": "9BGNQ-K37YR-RQHF2-38RQ3-7VCBB"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Visio Standard 2019",
+      "gvlk": "7TQNQ-K3YQQ-3PFH7-CCPPM-X4VQ2"
+    },
+    {
+      "category": "office",
+      "product": "Office 2019",
+      "edition": "Office Word 2019",
+      "gvlk": "PBX3G-NWMT6-Q7XBW-PYJGG-WXD33"
+    }
+  ]
+}
